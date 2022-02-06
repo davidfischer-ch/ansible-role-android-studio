@@ -1,9 +1,9 @@
-# Ansible Role android-studio
+# Ansible Role Android Studio
 
 Library of Ansible plugins and roles for deploying various services.
 See [ansible-roles](https://github.com/davidfischer-ch/ansible-roles) for additional documentation.
 
-This repository hosts the role android-studio and may depend of other roles and plugins of the library.
+This repository hosts the role Android Studio and may depend of other roles and plugins of the library.
 
 ## Dependencies
 
